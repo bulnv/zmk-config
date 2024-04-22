@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: SethMilliken:sofle-led-strip-support
+      revision: main
       import: app/west.yml
   self:
     path: config
